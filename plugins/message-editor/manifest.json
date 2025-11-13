@@ -1,0 +1,14 @@
+{
+  "name": "Message Editor",
+  "description": "Edit any message locally. Changes are only visible to you and don't affect the actual message.",
+  "authors": [
+    {
+      "name": "YourName",
+      "id": "0"
+    }
+  ],
+  "main": "index.tsx",
+  "vendetta": {
+    "icon": "ic_edit_24px"
+  }
+}
